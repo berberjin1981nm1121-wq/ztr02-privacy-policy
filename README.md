@@ -1,6 +1,6 @@
-# Privacy Policy for ZTR02 Monitor
+# Privacy Policy for HOME 5G L13 電波モニター
 
-This Privacy Policy applies to the ZTR02 Monitor Android application.
+This Privacy Policy applies to the HOME 5G L13 電波モニター Android application.
 
 The application provides network and signal monitoring information from a locally configured router interface and device environment. It does not collect or store personally identifiable information.
 
