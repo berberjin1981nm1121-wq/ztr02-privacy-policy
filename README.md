@@ -13,7 +13,7 @@
 本アプリは以下の技術情報を取得・表示します。
 
 - 基地局情報
-- 電波強度情報（RSRP / RSSI）
+- 電波強度情報（RSRP / SINR / RSRQ / SNR /RSSI）
 - ユーザーが設定したローカルルーターインターフェース（例: http://192.168.0.1）から取得したネットワーク情報
 
 本アプリは以下を取得しません。
@@ -84,7 +84,7 @@ The application provides network and signal monitoring information from a locall
 The app collects and displays the following technical data:
 
 - Base station information (cell tower data)
-- Signal strength metrics (RSRP / RSSI)
+- Signal strength metrics（RSRP / SINR / RSRQ / SNR /RSSI）
 - Network status information retrieved from a user-configured local router interface (default gateway such as http://192.168.0.1).
 
 The app does not collect:
