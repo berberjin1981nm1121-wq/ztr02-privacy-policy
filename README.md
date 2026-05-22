@@ -2,9 +2,9 @@
 
 ---
 
-# HOME 5G L13 電波モニター プライバシーポリシー
+# 電波見太郎 for L13 プライバシーポリシー
 
-本プライバシーポリシーは、Androidアプリ「HOME 5G L13 電波モニター」に適用されます。
+本プライバシーポリシーは、Androidアプリ「電波見太郎 for L13」に適用されます。
 
 本アプリは、ローカルに設定されたルーターインターフェースおよび端末環境から、ネットワーク情報や電波情報を表示するためのアプリです。本アプリ自体は、個人を特定できる情報を収集または保存しません。
 
@@ -73,9 +73,9 @@ https://github.com/berberjin1981nm1121-wq/ztr02-privacy-policy/issues
 
 ---
 
-# Privacy Policy for HOME 5G L13 電波モニター
+# Privacy Policy for 電波見太郎 for L13
 
-This Privacy Policy applies to the HOME 5G L13 電波モニター Android application.
+This Privacy Policy applies to the 電波見太郎 for L13 Android application.
 
 The application provides network and signal monitoring information from a locally configured router interface and device environment. It does not collect or store personally identifiable information.
 
